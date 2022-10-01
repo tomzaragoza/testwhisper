@@ -1,0 +1,304 @@
+1
+0:00:00.000 --> 0:00:05.320
+A guy that runs Sequoia Capital now, his name is Doug Leone.
+
+2
+0:00:05.320 --> 0:00:05.840
+Yeah.
+
+3
+0:00:05.840 --> 0:00:10.200
+One day, I think it's a year, year and a half ago, Doug Leone says, your job sucks.
+
+4
+0:00:10.200 --> 0:00:11.880
+And I was like, what the hell is that me?
+
+5
+0:00:11.880 --> 0:00:15.800
+Like, this is like, you've got the worst job of any CEO in my portfolio.
+
+6
+0:00:15.800 --> 0:00:18.000
+And I said, tell me why, and this is what he said.
+
+7
+0:00:18.000 --> 0:00:21.440
+He says, well, let me, here's how I think about it.
+
+8
+0:00:21.440 --> 0:00:23.400
+First of all, you're a technology company.
+
+9
+0:00:23.400 --> 0:00:24.640
+And he thought we were a technology company.
+
+10
+0:00:24.640 --> 0:00:27.520
+I would say, at our heart, in many ways, we are a technology company.
+
+11
+0:00:27.520 --> 0:00:31.800
+And so you have all the challenges of all of my other portfolio companies.
+
+12
+0:00:31.800 --> 0:00:35.840
+But beyond that, you are in 190 countries.
+
+13
+0:00:35.840 --> 0:00:37.640
+And so you have to figure out how to be international.
+
+14
+0:00:37.640 --> 0:00:40.040
+We have to hire people in countries all over the world.
+
+15
+0:00:40.040 --> 0:00:41.600
+We're literally in every country in Europe, but
+
+16
+0:00:41.600 --> 0:00:43.320
+North Korea, everywhere in Syria and Cuba.
+
+17
+0:00:43.320 --> 0:00:45.360
+You're basically a payments company.
+
+18
+0:00:45.360 --> 0:00:48.600
+We handle billions of dollars through our system every year, and
+
+19
+0:00:48.600 --> 0:00:51.600
+we had to get money transmission licenses in the state of California.
+
+20
+0:00:51.600 --> 0:00:53.320
+So we actually are a payments company.
+
+21
+0:00:53.320 --> 0:00:56.240
+We have serious fraud and risk to warrant and
+
+22
+0:00:56.240 --> 0:00:58.560
+needs to be locked down like Fort Knox.
+
+23
+0:00:58.560 --> 0:01:01.160
+He said, that's usually where companies end.
+
+24
+0:01:01.160 --> 0:01:02.520
+But you've got to worry about all this other crap.
+
+25
+0:01:02.520 --> 0:01:04.640
+And he says, trust and safety.
+
+26
+0:01:04.640 --> 0:01:10.920
+We have 425,000 people staying in other people's beds in their sheets.
+
+27
+0:01:10.920 --> 0:01:15.280
+Think about a woman from Texas staying in the Middle East, or vice versa.
+
+28
+0:01:15.280 --> 0:01:19.160
+The cultural conflicts that could happen in misunderstandings.
+
+29
+0:01:19.160 --> 0:01:21.840
+And you have 425,000 people a night.
+
+30
+0:01:21.840 --> 0:01:23.840
+It's like being the mayor of Oakland.
+
+31
+0:01:23.840 --> 0:01:27.680
+Now imagine if you're the mayor of Oakland, all these things happen in Oakland tonight.
+
+32
+0:01:27.680 --> 0:01:29.400
+So you've got trust and safety.
+
+33
+0:01:29.400 --> 0:01:31.760
+Now we have regulatory problems.
+
+34
+0:01:31.760 --> 0:01:33.920
+We are in 34,000 cities.
+
+35
+0:01:33.920 --> 0:01:36.560
+Every city has a different law, different rules, and
+
+36
+0:01:36.560 --> 0:01:40.280
+many of them are written in a different century before you had any of this technology.
+
+37
+0:01:40.280 --> 0:01:41.880
+And so you've got to deal with that.
+
+38
+0:01:41.880 --> 0:01:44.480
+Then you've got issues like search and discovery.
+
+39
+0:01:44.480 --> 0:01:47.280
+So Google's got its brand about being really important about search.
+
+40
+0:01:47.280 --> 0:01:50.880
+The thing about search though is usually if I have a question,
+
+41
+0:01:50.880 --> 0:01:53.200
+Google could give me 40,000 results.
+
+42
+0:01:53.200 --> 0:01:58.080
+But it's probably clear that there's like one or two best options for everybody.
+
+43
+0:01:58.080 --> 0:02:01.320
+So if I want to know a question to an answer, there's usually one best answer.
+
+44
+0:02:01.320 --> 0:02:03.120
+We have 40,000 homes in Paris.
+
+45
+0:02:03.120 --> 0:02:05.880
+There is no best home in Paris for anybody in this room.
+
+46
+0:02:05.880 --> 0:02:10.440
+So we have to be really, really great at matching people and technology.
+
+47
+0:02:10.440 --> 0:02:13.520
+We have to be a company that's just another example.
+
+48
+0:02:13.520 --> 0:02:15.760
+Facebook, for example, is a digital product.
+
+49
+0:02:15.760 --> 0:02:17.600
+Their product is their website.
+
+50
+0:02:17.600 --> 0:02:20.920
+Our product are these experiences you have in the real world.
+
+51
+0:02:20.920 --> 0:02:22.240
+So we're not just an online product.
+
+52
+0:02:22.240 --> 0:02:23.440
+We have to be an offline product.
+
+53
+0:02:23.440 --> 0:02:27.360
+And we need to transition from when you're at in your app through cities.
+
+54
+0:02:27.360 --> 0:02:31.120
+And these are just some of the examples why technology, design.
+
+55
+0:02:31.120 --> 0:02:35.040
+So basically the long and the short of it is we have to be real class of technology.
+
+56
+0:02:35.040 --> 0:02:37.000
+We have to be real class of design.
+
+57
+0:02:37.000 --> 0:02:40.240
+We have to be real class at branding because we've got to convince people this
+
+58
+0:02:40.240 --> 0:02:42.520
+isn't crazy, you're not going to die when you use it.
+
+59
+0:02:42.520 --> 0:02:44.760
+We have to convince governments this is good for your neighborhood.
+
+60
+0:02:44.760 --> 0:02:46.360
+What happens the internet moves into your neighborhood?
+
+61
+0:02:46.360 --> 0:02:47.720
+That's what people call it.
+
+62
+0:02:47.720 --> 0:02:49.080
+It's a good thing, hopefully.
+
+63
+0:02:49.080 --> 0:02:50.480
+And you've got to make sure trust and
+
+64
+0:02:50.480 --> 0:02:53.080
+safety is really real class, that we handle all these payments and
+
+65
+0:02:53.080 --> 0:02:54.720
+not have problems with risk.
+
+66
+0:02:54.720 --> 0:02:55.920
+And I can kind of go through.
+
+67
+0:02:55.920 --> 0:02:57.600
+And this is not even to do with culture.
+
+68
+0:02:57.600 --> 0:02:59.280
+I didn't even mention culture.
+
+69
+0:02:59.280 --> 0:03:02.000
+So that's how I describe it, I think great companies or
+
+70
+0:03:02.000 --> 0:03:04.120
+companies are probably really strong at everything.
+
+71
+0:03:04.120 --> 0:03:07.520
+But we try to hire the very best engineers and
+
+72
+0:03:07.520 --> 0:03:08.800
+technical talent in the world and
+
+73
+0:03:08.800 --> 0:03:11.120
+I definitely don't see it as a marketing company.
+
+74
+0:03:11.120 --> 0:03:11.800
+Thank you.
+
+75
+0:03:11.800 --> 0:03:12.320
+Thank you guys.
+
+76
+0:03:12.320 --> 0:03:22.320
+Thank you.
+
